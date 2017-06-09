@@ -14,4 +14,4 @@ This is a case study I had worked during Certification Course in Data Analysis U
 * Conditional Formating
 * Sparkles
 * Importing Data Using Mysql or Ms Access
-* Multiple Table & Pivot Chart using Imported Data From Diffrent Sources.
+* Multiple Table & Pivot Chart using Imported Data From Different Sources.
